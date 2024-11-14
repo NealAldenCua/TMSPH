@@ -3,6 +3,10 @@
 **Overview**
 
 This Python script automates the registration form testing for a web application. It interacts with the form's fields, submits data, checks for valid and invalid responses, and verifies that the expected behavior occurs in each case. The script ensures that the registration page works correctly for various scenarios.
+- Valid inputs lead to a successful registration.
+- Invalid inputs trigger proper error messages.
+- Required fields are not left empty.
+- Specific behaviors (like checkbox selection) are properly enforced.
 
 
 **Thought Process & Design**
