@@ -1,4 +1,4 @@
-# TMSPH-practical-exam
+# TMSPH
 
 **Overview**
 
@@ -23,7 +23,7 @@ Tools Used:
 
 **ChromeDriver:** Required to run the script on Google Chrome. (You must have Chrome installed).
 
-**Python:** The script is written in Python. Ensure you have Python 3.x installed.
+**Python:** The script is written in Python.
 
 **Python Packages**: Ensure the following Python packages are installed:
 - selenium: For automating the web browser.
