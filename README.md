@@ -7,6 +7,7 @@ This Python script automates the registration form testing for a web application
 **Thought Process & Design**
 
 Purpose of the Script:
+
 The main goal of this script is to ensure that the registration page of the web application is functioning correctly under various conditions. It aims to simulate real user interactions, like filling out forms and submitting them, and it checks for correct error handling.
 
 Design:
