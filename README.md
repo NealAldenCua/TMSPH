@@ -30,6 +30,13 @@ Tools Used:
 - time: For adding delays to simulate real-time actions.
 
 
+**Installation**
+1. install Python if you haven't yet. https://www.python.org/downloads/
+2. Install Selenium via pip: pip install selenium
+3. Download ChromeDriver and extract it to a folder on your computer. https://developer.chrome.com/docs/chromedriver/downloads
+4. Update the executable_path in the script to point to the downloaded chromedriver.exe
+
+
 **Running the Script**
 
 1. Clone or Download the Script:
